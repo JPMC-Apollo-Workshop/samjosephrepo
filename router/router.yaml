@@ -35,6 +35,8 @@ subscription:
 #   max_height: 10
 #   max_aliases: 3
 
+
+
 persisted_queries:
   enabled: true
   safelist:
