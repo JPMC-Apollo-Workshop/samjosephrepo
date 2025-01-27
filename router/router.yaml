@@ -30,10 +30,3 @@ subscription:
           path: /
 ## Enter Workshop Module Configs Below
 
-persisted_queries:
-  enabled: true
-  safelist:
-    enabled: false
-    require_id: false
-apq:
-  enabled: false
