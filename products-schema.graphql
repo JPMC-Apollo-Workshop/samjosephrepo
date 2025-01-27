@@ -68,6 +68,7 @@ input ProductSearchInput {
   featured: Boolean
 }
 
+
 """
 Search filters for when returning Variants
 """
